@@ -1,0 +1,31 @@
+body{     
+    text-align:center ;
+    font-family:Dancing Script ;
+    background-color: lightblue ;
+    background-repeat:no-repeat ;
+}
+
+
+.box1{
+
+  border: 2 darkred;
+  padding: auto;
+}
+
+.box2{
+    table-layout: auto;
+    padding: auto;
+    border: 2 rebeccapurple;
+}
+
+.box3{
+    padding: auto;
+    border: 2 darkcyan;
+}
+
+.box4{
+     
+     border: 2 darkred;
+     padding: auto;
+    
+}
